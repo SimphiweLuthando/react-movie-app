@@ -1,4 +1,4 @@
-# My React movie app with API integration
+# My React task manager
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
